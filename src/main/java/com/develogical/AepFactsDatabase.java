@@ -38,6 +38,8 @@ public class AepFactsDatabase {
         // student 1 add biog above this comment
         data.put("michaelkrolak",  miniBiog("Live in Boston, MA with my wife and 2 kids.  Rocking the git",
                 "no profile"));
+        data.put("sandycoypu",  miniBiog("Live in Oxford, UK with my wife and 2 kids.  Rocking the git",
+                "no profile"));
 
 
         // student 2 add biog after this comment
