@@ -47,7 +47,7 @@
                         <configuration>
                             <assembleDirectory>target</assembleDirectory>
                             <programs>
-                                <program>
+                                 <program>
                                     <mainClass>com.develogical.WebServer</mainClass>
                                     <name>aepfacts</name>
                                 </program>
